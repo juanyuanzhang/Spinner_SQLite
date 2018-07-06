@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <array name="color_string">
+
+       <item>白色</item>
+       <item>藍色</item>
+       <item>紅色</item>
+       <item>綠色</item>
+       <item>橘色</item>
+
+   </array>
+</resources>
